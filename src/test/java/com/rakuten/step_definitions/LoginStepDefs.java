@@ -30,6 +30,7 @@ public class LoginStepDefs {
 
         MoviesPage moviesPage = new MoviesPage();
         moviesPage.wishlistButton.click();
+        System.out.println("Nursen");
 
     }
 
