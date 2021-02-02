@@ -33,6 +33,7 @@ public class LoginStepDefs {
         System.out.println("Nursen");
         System.out.println("guzelel");
         System.out.println("olmuyor");
+        System.out.println("bi şey");
 
 
     }
