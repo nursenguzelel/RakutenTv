@@ -32,7 +32,8 @@ public class LoginStepDefs {
         moviesPage.wishlistButton.click();
         System.out.println("Nursen");
         System.out.println("guzelel");
-        System.out.println("musab");
+        System.out.println("olmuyor");
+        System.out.println("bi şey");
 
 
     }
